@@ -1,4 +1,10 @@
-﻿# DeepChem
+## Differentiable Finite Element Method in DeepChem
+
+> **My contribution:** An end-to-end differentiable 2D FEM solver in PyTorch, integrated with DeepChem's TorchModel and NumpyDataset abstractions.
+> Check it out here: **[contrib/diffem](contrib/diffem/)**
+
+ 
+ # DeepChem
 
 [![Anaconda-Server Badge](https://anaconda.org/conda-forge/deepchem/badges/version.svg)](https://anaconda.org/conda-forge/deepchem)
 [![PyPI version](https://badge.fury.io/py/deepchem.svg)](https://pypi.org/project/deepchem/)
